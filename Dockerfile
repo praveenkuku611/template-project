@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html/
+COPY /home/praveenkuku611/template-website/oxer-html  /usr/share/nginx/html/
